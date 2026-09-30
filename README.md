@@ -19,8 +19,9 @@ A tabela abaixo centraliza o acesso a todos os projetos práticos e laboratório
 | **`Fundamentos_de_HTML_e_CSSinline-WebDesign`** | Estudo de tags semânticas, formatação de textos, cabeçalhos e estilização inline inicial. | [📁 Repositório](https://github.com/luk4s1104/Fundamentos_de_HTML_e_CSSinline-WebDesign) |
 | **`Fundamentos_HTML_Midia-WebDesign`** | Exercício cobrindo elementos básicos, inserção de mídias (imagens, áudio, vídeo), formulários e tabelas. | [📁 Repositório](https://github.com/luk4s1104/Fundamentos_HTML_Midia-WebDesign) <br> [📎 Resultado Prático](https://tarefa04-web-design.vercel.app/) |
 | **`SEO-WebDesign🌱`** | Otimização técnica (SEO), auditoria de PageRank, inclusão de metadados estruturados (Open Graph), além de práticas de CSS interno e inline. Códifo protótipo para o Projeto-WebDesign | [📁 Repositório](https://github.com/luk4s1104/SEO-WebDesign) <br> [📎 Resultado Prático](https://seo-web-design-six.vercel.app/) |
-| **`Projeto WebDesign🌳`** | Site focado na criação e gerenciamento gratuito de fichas de RPG de mesa, contendo formulários interativos, recursos visuais e outras funcionalidades para jogadores. | [📁 Repositório](https://github.com/luk4s1104/Projeto-WebDesign) |
 | **`CSS-Externo-WebDesign🌱`** | Estudo prático focado na separação de responsabilidades, modularização de arquivos, organização de pastas estruturadas e aplicação de estilos globais via CSS Externo. | [📁 Repositório](https://github.com/luk4s1104/CSS-Externo-WebDesign) <br> [📎 Resultado Prático](https://css-externo-webdesign.vercel.app/) 
+| **`Projeto WebDesign🌳`** | Site focado na criação e gerenciamento gratuito de fichas de RPG de mesa, contendo formulários interativos, recursos visuais e outras funcionalidades para jogadores. | [📁 Repositório](https://github.com/luk4s1104/Projeto-WebDesign) |
+
 
 
 
