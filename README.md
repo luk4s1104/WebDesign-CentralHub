@@ -21,7 +21,5 @@ A tabela abaixo centraliza o acesso a todos os projetos práticos e laboratório
 | **`SEO-WebDesign🌱`** | Otimização técnica (SEO), auditoria de PageRank, inclusão de metadados estruturados (Open Graph), além de práticas de CSS interno e inline. Códifo protótipo para o Projeto-WebDesign | [📁 Repositório](https://github.com/luk4s1104/SEO-WebDesign) <br> [📎 Resultado Prático](https://seo-web-design-six.vercel.app/) |
 | **`CSS-Externo-WebDesign🌱`** | Estudo prático focado na separação de responsabilidades, modularização de arquivos, organização de pastas estruturadas e aplicação de estilos globais via CSS Externo. | [📁 Repositório](https://github.com/luk4s1104/CSS-Externo-WebDesign) <br> [📎 Resultado Prático](https://css-externo-webdesign.vercel.app/) 
 | **`Projeto WebDesign🌳`** | Site focado na criação e gerenciamento gratuito de fichas de RPG de mesa, contendo formulários interativos, recursos visuais e outras funcionalidades para jogadores. | [📁 Repositório](https://github.com/luk4s1104/Projeto-WebDesign) |
-
-
-
+| **`responsive-flexbox-layout-WebDesign🌱`** | Laboratório de design responsivo e UI/UX focado em layouts flexíveis com Flexbox. Código protótipo focado na fundação visual e estruturação de interfaces para o sistema final. | [📁 Repositório](https://github.com/luk4s1104/responsive-flexbox-layout-WebDesign) <br> [📎 Resultado Prático](https://responsive-flexbox-layout-webdesign.vercel.app/) |
 
