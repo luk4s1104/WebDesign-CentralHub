@@ -13,7 +13,7 @@ Repositório centralizador da disciplina de **Web Design**. Este repositório fu
 
 A tabela abaixo centraliza o acesso a todos os projetos práticos e laboratórios desenvolvidos nesta disciplina.
 
-| Repositório / Projeto | Descrição / O que foi praticado | Links de Acesso |
+| Aula / Repositório / Projeto | Descrição / O que foi praticado | Links de Acesso |
 | :--- | :--- | :--- |
 | **`Versionamento_de_Codigo-WebDesign`** | Repositório focado exclusivamente na prática de comandos Git e fluxos no GitHub. | [📁 Repositório](https://github.com/luk4s1104/Versionamento_de_Codigo-WebDesign) |
 | **`Fundamentos_de_HTML_e_CSSinline-WebDesign`** | Estudo de tags semânticas, formatação de textos, cabeçalhos e estilização inline inicial. | [📁 Repositório](https://github.com/luk4s1104/Fundamentos_de_HTML_e_CSSinline-WebDesign) |
