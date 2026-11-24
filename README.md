@@ -1,4 +1,4 @@
-# 🌐 webdesign-hub
+# 🌐 WebDesign-Hub
 
 Repositório centralizador da disciplina de **Web Design**. Este repositório funciona como um índice estruturado para organizar os materiais didáticos e direcionar o acesso aos projetos práticos desenvolvidos ao longo do curso.
 
