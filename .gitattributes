@@ -1,1 +1,1 @@
-*.c linguist-language=HTML
+*.c linguist-detectable=false
