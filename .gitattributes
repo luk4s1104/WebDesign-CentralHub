@@ -1,1 +1,3 @@
-* linguist-detectable=false
+Material\ Complementar/* linguist-vendored
+Templates/* linguist-vendored
+*.h linguist-detectable=false
